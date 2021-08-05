@@ -1,29 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Kieron&#39;s first Hugo site</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Kieron&#39;s first Hugo site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 03 Aug 2021 14:36:17 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Second Post</title>
-      <link>/posts/my-second-post/</link>
-      <pubDate>Tue, 03 Aug 2021 14:36:17 -0500</pubDate>
-      
-      <guid>/posts/my-second-post/</guid>
-      <description>Lots of extra great content here www.bawbag.net</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Tue, 03 Aug 2021 14:17:12 -0500</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description>This is a post on my new Hugo site A second line </description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Kieron&#39;s Hugo site with LoveIt theme</title>
+        <link>/posts/</link>
+        <description>All Posts | Kieron&#39;s Hugo site with LoveIt theme</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 03 Aug 2021 14:36:17 -0500</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My Second Post</title>
+    <link>/posts/my-second-post/</link>
+    <pubDate>Tue, 03 Aug 2021 14:36:17 -0500</pubDate>
+    <author>Author</author>
+    <guid>/posts/my-second-post/</guid>
+    <description><![CDATA[Lots of extra great content here www.bawbag.net]]></description>
+</item><item>
+    <title>My First Post</title>
+    <link>/posts/my-first-post/</link>
+    <pubDate>Tue, 03 Aug 2021 14:17:12 -0500</pubDate>
+    <author>Author</author>
+    <guid>/posts/my-first-post/</guid>
+    <description><![CDATA[This is a post on my new Hugo site A second line ]]></description>
+</item></channel>
 </rss>
