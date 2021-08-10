@@ -9,7 +9,9 @@
     <pubDate>Tue, 03 Aug 2021 14:36:17 -0500</pubDate>
     <author>Author</author>
     <guid>https://kieron.blog/my-second-post/</guid>
-    <description><![CDATA[Lots of extra great content here Links list some Links www.bawbag.net]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/label.jpg" referrerpolicy="no-referrer">
+            </div>Lots of extra great content here Links list some Links www.bawbag.net ]]></description>
 </item><item>
     <title>My First Post</title>
     <link>https://kieron.blog/my-first-post/</link>
