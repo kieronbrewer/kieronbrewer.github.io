@@ -4,5 +4,5 @@
 ## Links list
 ### some Links
 www.bawbag.net
-![a bottle of old granddad whiskey](/full.jpg)
+![a bottle of old granddad whiskey](/full2c.jpg)
 
