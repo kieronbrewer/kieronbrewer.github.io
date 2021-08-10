@@ -18,6 +18,7 @@
     <pubDate>Tue, 03 Aug 2021 14:17:12 -0500</pubDate>
     <author>Author</author>
     <guid>https://kieron.blog/my-first-post/</guid>
-    <description><![CDATA[This is a post on my new Hugo site A second line ]]></description>
+    <description><![CDATA[This is a post on my new Hugo site
+A second line]]></description>
 </item></channel>
 </rss>
