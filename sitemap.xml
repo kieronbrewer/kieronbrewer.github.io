@@ -2,10 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://kieron.blog/git-test/</loc><lastmod>2021-08-31T08:18:10-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://kieron.blog/</loc><lastmod>2021-08-31T08:18:10-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://kieron.blog/posts/</loc><lastmod>2021-08-31T08:18:10-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://kieron.blog/my-second-post/</loc><lastmod>2021-08-03T14:36:17-05:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://kieron.blog/my-first-post/</loc><lastmod>2021-08-03T14:17:12-05:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://kieron.blog/</loc><lastmod>2021-09-30T08:10:55-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://kieron.blog/whisky-collection/</loc><lastmod>2021-09-30T08:10:55-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://kieron.blog/posts/</loc><lastmod>2021-09-30T08:10:55-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://kieron.blog/about/</loc><lastmod>2021-08-03T14:17:12-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://kieron.blog/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://kieron.blog/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

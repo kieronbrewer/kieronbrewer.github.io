@@ -3,37 +3,26 @@
         <title>Kieron Brewer - Minnesota based digital marketer and whiskey drinker</title>
         <link>https://kieron.blog/</link>
         <description>Web analytics and whskey, what do they have to do with each other? Lets find out together.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 31 Aug 2021 08:18:10 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 30 Sep 2021 08:10:55 -0500</lastBuildDate>
             <atom:link href="https://kieron.blog/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Git Test</title>
-    <link>https://kieron.blog/git-test/</link>
-    <pubDate>Tue, 31 Aug 2021 08:18:10 -0500</pubDate>
+    <title>My current whisky collection</title>
+    <link>https://kieron.blog/whisky-collection/</link>
+    <pubDate>Thu, 30 Sep 2021 08:10:55 -0500</pubDate>
     <author>Author</author>
-    <guid>https://kieron.blog/git-test/</guid>
+    <guid>https://kieron.blog/whisky-collection/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/images/oldtub-lg.jpg" referrerpolicy="no-referrer">
-            </div>Using this to test a new branch of git
-testing a responsive image Just trying a really small image now A bottle of Old Tub whiskey (image)" A bottle of Old Tub whiskey (image)]]></description>
+                <img src="/images/whisky-collection.jpg" referrerpolicy="no-referrer">
+            </div>Current whisky collection as of: 30/Sep/2021
+Scotland Single Malt  Caol Ila 12 Glenfiddich 15 Glenmorangie	15 Highland Park	18 Knockando extra old (no age statement) Knockdhu 6 Lagavulin 16 Laphroaig 10 Macduff 7 Royal Lochnagar Select Reserve (no age statement) Talisker 14 Toremore 12  Blends  Johnnie Walker Black Label Johnnie Walker Blue Label Johnnie Walker Double Black Johnnie Walker Gold Label Johnnie Walker Gold Label Johnnie Walker Green Label Shackleton  United States of America Bourbon  Baker&rsquo;s 7 George Dickel 8 George Dickel Tobasco barrel finish Old Granddad bonded Old Tub Rock Filtered Stones Throw Smooth Ambler Contradiction Very Old Barton  Rye  High West Double Rye Old Overholt rye Wild Turkey 101 rye  Canada  Canadian Club  Ireland  Hellcat Maggie Prize fight  ]]></description>
 </item><item>
-    <title>Old Granddad - High rye mashbill</title>
-    <link>https://kieron.blog/my-second-post/</link>
-    <pubDate>Tue, 03 Aug 2021 14:36:17 -0500</pubDate>
-    <author>Author</author>
-    <guid>https://kieron.blog/my-second-post/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/labelc.png" referrerpolicy="no-referrer">
-            </div>Lots of extra great content here I changed these to png files
-Also, I don&rsquo;t think the link below works anymore
-Links list Below you will find some links
-some Links www.bawbag.net ]]></description>
-</item><item>
-    <title>My First Post</title>
-    <link>https://kieron.blog/my-first-post/</link>
+    <title>About this site, and Kieron</title>
+    <link>https://kieron.blog/about/</link>
     <pubDate>Tue, 03 Aug 2021 14:17:12 -0500</pubDate>
     <author>Author</author>
-    <guid>https://kieron.blog/my-first-post/</guid>
-    <description><![CDATA[This is a post on my new Hugo site
-A second line]]></description>
+    <guid>https://kieron.blog/about/</guid>
+    <description><![CDATA[Hi, thanks for paying some attention to my corner of the internet.
+So I&rsquo;m Kieron, a Scotsman based near Minneapolis Minnesota since 2005. I&rsquo;m a digital marketer by trade with a wide range of experience in the past two decades.   Kieron Brewer   Particular areas of focus have been: paid search, digital analytics, tag management, marketing automation, email campaigns, digital body language, and site building.
+In my spare time I spend way too much time online, usually learning and practicing with new technology tools.]]></description>
 </item></channel>
 </rss>
