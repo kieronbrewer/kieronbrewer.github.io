@@ -3,9 +3,16 @@
         <title>Kieron Brewer - Minnesota based digital marketer and whiskey drinker</title>
         <link>https://kieron.blog/</link>
         <description>Web analytics and whskey, what do they have to do with each other? Lets find out together.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 30 Sep 2021 08:10:55 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 20 Oct 2021 18:51:48 -0500</lastBuildDate>
             <atom:link href="https://kieron.blog/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Image</title>
+    <link>https://kieron.blog/image/</link>
+    <pubDate>Wed, 20 Oct 2021 18:51:48 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://kieron.blog/image/</guid>
+    <description><![CDATA[  Whisky Collection   ]]></description>
+</item><item>
     <title>My current whisky collection</title>
     <link>https://kieron.blog/whisky-collection/</link>
     <pubDate>Thu, 30 Sep 2021 08:10:55 -0500</pubDate>
