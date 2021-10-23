@@ -1,11 +1,11 @@
 # My current whisky collection2
 
-{{< figure src="/images/Whisky-Collection.webp" width="100%" alt="My current whisky collection" >}}
+{{< figure src="/images/Whisky-Collection.webp" width="100%" height="100%" alt="My current whisky collection" >}}
 Current whisky collection as of: 30/Sep/2021
 
 ## Scotland
 ### Single Malt
-+ Caol Ila 12 toot
++ Caol Ila 12 tooty
 + Glenfiddich 15
 + Glenmorangie	15
 + Highland Park	18
