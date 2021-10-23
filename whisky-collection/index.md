@@ -1,5 +1,6 @@
 # My current whisky collection
 
+{{< figure src="/images/Whisky-Collection.webp" width="100%" alt="My current whisky collection" >}}
 Current whisky collection as of: 30/Sep/2021
 
 ## Scotland

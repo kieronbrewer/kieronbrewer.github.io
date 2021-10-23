@@ -4,7 +4,7 @@
 Hi, thanks for paying some attention to my corner of the internet.
 
 So I'm Kieron, a Scotsman based near Minneapolis Minnesota since 2005. I'm a digital marketer by trade with a wide range of experience in the past two decades.
-{{< figure src="/images/Kieron Brewer.webp" title="Kieron Brewer" >}}
+{{< figure src="/images/Kieron Brewer.webp" title="Kieron Brewer" width="100%" >}}
 
 Particular areas of focus have been: paid search, digital analytics, tag management, marketing automation, email campaigns, digital body language, and site building.
 
