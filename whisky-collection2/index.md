@@ -5,7 +5,7 @@ Current whisky collection as of: 30/Sep/2021
 
 ## Scotland
 ### Single Malt
-+ Caol Ila 12 tooty
++ Caol Ila 12
 + Glenfiddich 15
 + Glenmorangie	15
 + Highland Park	18
