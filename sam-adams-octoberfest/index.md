@@ -3,7 +3,7 @@
 {{< figure src="/images/Sam label.webp" width="100%" alt="A close up of the label on a 12oz bottle of Sam Adams Oktoberfest" >}}
 Recomend this Oktoberfest
 
-Full review coming soon. Lorem ipsum here as a place holder.
+Test copy as I experiment with increasing page speed.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus fringilla, ante ut tristique dictum, augue diam pellentesque tortor, nec maximus nunc erat sed turpis. Vestibulum et est velit. Fusce mattis tortor eu ullamcorper viverra. Sed et lectus quis sem congue hendrerit vitae ut urna. Nam quis finibus arcu. Praesent facilisis maximus ipsum ac molestie. Quisque nisl enim, sagittis ut nunc at, aliquam vehicula odio. Nullam viverra mollis tortor, in pulvinar turpis maximus ut. Vivamus consectetur laoreet risus, sed elementum ipsum suscipit nec. Duis sed fringilla elit. In blandit nunc ut mollis aliquet. Proin eros lectus, cursus viverra purus ac, sagittis ultricies erat.
 
