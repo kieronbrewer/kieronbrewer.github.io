@@ -10,5 +10,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus fringilla, an
 Vestibulum ut sapien ullamcorper, ultricies metus at, sodales sapien. Pellentesque at erat at orci dictum tincidunt. Pellentesque bibendum ultricies odio, nec varius odio cursus id. Ut rutrum tempus erat. Nunc et orci tellus. Vestibulum pretium, felis eget dictum pretium, arcu mi auctor purus, et bibendum magna libero ullamcorper orci. Proin porttitor est sed dapibus efficitur. Pellentesque mollis, odio ut varius auctor, nisi tellus placerat velit, eleifend eleifend nulla urna ac lacus. In elit odio, tempor et tincidunt vel, feugiat sit amet enim.
 {{< figure src="/images/Sam bottle and glass.webp" width="100%" alt="A pint of Sam Adams Oktoberfest standing next to the bottle it was recently poured from. Autum leaves in the background" >}}
 
-[The Bulwark Podcast](https://www.thebulwark.com/podcast/the-bulwark-podcast/)
-
