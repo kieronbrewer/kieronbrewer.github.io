@@ -1,7 +1,7 @@
 # My current whisky collection
 
 {{< figure src="/images/Whisky-Collection.webp" width="100%" alt="My current whisky collection" >}}
-Current whisky collection as of: 30/Sep/2021
+Current whisky collection as of: 14/Aug/2022
 
 ## Scotland
 ### Single Malt
@@ -24,7 +24,7 @@ Current whisky collection as of: 30/Sep/2021
 + Johnnie Walker Blue Label
 + Johnnie Walker Double Black
 + Johnnie Walker Gold Label
-+ Johnnie Walker Green Label
++ Johnnie Walker Green Label (pre 2016 reboot)
 + Johnnie Walker High Rye
 + Shackleton
 
