@@ -37,6 +37,6 @@ Guest / Topic dependent. Lifestyle design mostly
 A funny chap interviews comedians about their favourite jokes and the roots to their comedy
 * [The Rich Roll Podcast](https://www.richroll.com/all-episodes/)
 Vegan endurance athlete interviews a variety of high performers about what makes them tick
-* [The Next Leval](https://www.thebulwark.com/podcast/the-next-level-podcast/)
+* [The Next Level](https://www.thebulwark.com/podcast/the-next-level-podcast/)
 Three of the principal Bullwark contributors discuss the news of the week
 
