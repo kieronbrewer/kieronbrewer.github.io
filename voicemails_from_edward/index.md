@@ -1,7 +1,7 @@
 # Voicemails From Edward
 
 
-{{< figure src="/images/jonathan-velasquez-c1ZN57GfDB0-unsplash.jpg" width="100%" alt="An image of a podcast microphone - thanks to Jonathan Velasquez via Unsplash" >}}
+{{< figure src="/images/youve got voicemail.webp" width="100%" alt="An image of a podcast microphone - thanks to Jonathan Velasquez via Unsplash" >}}
 # Some voicemails I got from my neighbour
 ## 10/Apr/2024
 {{< youtube oeFiApfDg_A >}}
