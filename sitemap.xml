@@ -2,12 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://kieron.blog/</loc><lastmod>2024-06-19T09:38:18-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://kieron.blog/posts/</loc><lastmod>2024-06-19T09:38:18-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://kieron.blog/voicemails_from_edward/</loc><lastmod>2024-06-19T09:38:18-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://kieron.blog/categories/</loc><lastmod>2022-08-09T12:11:30-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kieron.blog/</loc><lastmod>2022-08-09T12:11:30-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://kieron.blog/categories/media/</loc><lastmod>2022-08-09T12:11:30-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://kieron.blog/tags/podcasts/</loc><lastmod>2022-08-09T12:11:30-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://kieron.blog/recomended-podcasts/</loc><lastmod>2022-08-09T12:11:30-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://kieron.blog/posts/</loc><lastmod>2022-08-09T12:11:30-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://kieron.blog/tags/</loc><lastmod>2022-08-09T12:11:30-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://kieron.blog/tags/blended-scotch/</loc><lastmod>2021-09-30T08:10:55-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://kieron.blog/tags/bourbon/</loc><lastmod>2021-09-30T08:10:55-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
