@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Kieron Brewer - Minnesota based digital marketer and whiskey drinker</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Jun 2024 09:38:18 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 19:30:14 -0600</lastBuildDate>
     <atom:link href="https://kieron.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://kieron.blog/test/</link>
+      <pubDate>Sat, 04 Jan 2025 19:30:14 -0600</pubDate>
+      <guid>https://kieron.blog/test/</guid>
+      <description>&lt;h2 id=&#34;this-is-a-test&#34;&gt;this is a test&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>Voicemails From Edward</title>
       <link>https://kieron.blog/voicemails_from_edward/</link>

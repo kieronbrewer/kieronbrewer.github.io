@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kieron.blog/</loc>
-    <lastmod>2024-06-19T09:38:18-05:00</lastmod>
+    <lastmod>2025-01-04T19:30:14-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://kieron.blog/posts/</loc>
-    <lastmod>2024-06-19T09:38:18-05:00</lastmod>
+    <lastmod>2025-01-04T19:30:14-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://kieron.blog/test/</loc>
+    <lastmod>2025-01-04T19:30:14-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
