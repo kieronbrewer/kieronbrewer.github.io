@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kieron Brewer - Minnesota based digital marketer and whiskey drinker</title>
+    <link>https://kieron.blog/categories/</link>
+    <description>Recent content in Categories on Kieron Brewer - Minnesota based digital marketer and whiskey drinker</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Aug 2022 12:11:30 -0500</lastBuildDate>
+    <atom:link href="https://kieron.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Media</title>
+      <link>https://kieron.blog/categories/media/</link>
+      <pubDate>Tue, 09 Aug 2022 12:11:30 -0500</pubDate>
+      <guid>https://kieron.blog/categories/media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Whiskey</title>
+      <link>https://kieron.blog/categories/whiskey/</link>
+      <pubDate>Thu, 30 Sep 2021 08:10:55 -0500</pubDate>
+      <guid>https://kieron.blog/categories/whiskey/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
