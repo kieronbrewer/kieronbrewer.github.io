@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -37,4 +38,44 @@
       <description>&lt;p&gt;Hi, thanks for paying some attention to my corner of the internet.&lt;/p&gt;&#xA;&lt;p&gt;So I&amp;rsquo;m Kieron, a Scotsman based near Minneapolis Minnesota since 2005. I&amp;rsquo;m a digital marketer by trade with a wide range of experience in the past two decades.&#xA;&lt;figure&gt;&lt;img src=&#34;https://kieron.blog/images/Kieron%20Brewer.webp&#34; width=&#34;100%&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Kieron Brewer&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Particular areas of focus have been: paid search, digital analytics, tag management, marketing automation, email campaigns, digital body language, and site building.&lt;/p&gt;&#xA;&lt;p&gt;In my spare time I spend way too much time online, usually learning and practicing with new technology tools. I&amp;rsquo;m currently working through the datacamp.com data analyst path and learning Python as I go. I have a working Mautic marketing automation install (though nothing really planned for it) and in summer 2021 I&amp;rsquo;ve been learning about Git, something that always seemed useful but I missed along the way until now.&lt;/p&gt;</description>
     </item>
   </channel>
+=======
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Kieron Brewer - Minnesota based digital marketer and whiskey drinker</title>
+        <link>https://kieron.blog/posts/</link>
+        <description>All Posts | Kieron Brewer - Minnesota based digital marketer and whiskey drinker</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 19 Jun 2024 09:38:18 -0500</lastBuildDate><atom:link href="https://kieron.blog/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Voicemails From Edward</title>
+    <link>https://kieron.blog/voicemails_from_edward/</link>
+    <pubDate>Wed, 19 Jun 2024 09:38:18 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://kieron.blog/voicemails_from_edward/</guid>
+    <description><![CDATA[  Some voicemails I got from my neighbour 10/Apr/2024   30/May/2024   7/Jun/2024   ]]></description>
+</item><item>
+    <title>Podcasts Recommendations</title>
+    <link>https://kieron.blog/recomended-podcasts/</link>
+    <pubDate>Tue, 09 Aug 2022 12:11:30 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://kieron.blog/recomended-podcasts/</guid>
+    <description><![CDATA[Pocasts are easily my primary medium for information consumption. If I&rsquo;m talking to you about something I recently learned, it&rsquo;s probably from one of these pods. These are the podcasts that are in my regular rotation.
+An unorganized list of podcasts I listen to:  The Bulwark Podcast A daily center right politics podcast with guests from across the political spectrum, discussing the day&rsquo;s news. The DishCast with Andrew Sullivan A great interviewer, hit and miss for me depending on guest State of Demand Gen B2B Marketing podcast, looking beyond standard attribution models Pivot Business and current events conversation The Tim Ferriss Show Lifestyle topics.]]></description>
+</item><item>
+    <title>My current whisky collection</title>
+    <link>https://kieron.blog/whisky-collection/</link>
+    <pubDate>Thu, 30 Sep 2021 08:10:55 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://kieron.blog/whisky-collection/</guid>
+    <description><![CDATA[  Current whisky collection as of: 14/Aug/2022
+Scotland Single Malt  Arran 10 Caol Ila 12 Glenfiddich 15 Glenmorangie	15 Highland Park	18 Knockando extra old (no age statement) Knockdhu 6 Lagavulin 16 Laphroaig 10 Macduff 7 Royal Lochnagar Select Reserve (no age statement) Talisker 14 Toremore 12  Blends  Johnnie Walker Black Label Johnnie Walker Blue Label Johnnie Walker Double Black Johnnie Walker Gold Label Johnnie Walker Green Label (pre 2016 reboot) Johnnie Walker High Rye Shackleton  United States of America Bourbon  Baker&rsquo;s 7 George Dickel Sour Mash 8 George Dickel Tobasco barrel finish Old Granddad bonded Rock Filtered Stones Throw Rock Filtered Black Hammer Smooth Ambler Contradiction Very Old Barton  Rye  High West Double Rye George Dickel Rye Triple R Russian River Rye  Canada  Canadian Club  Ireland  Hellcat Maggie Prize fight  ]]></description>
+</item><item>
+    <title>About this site, and Kieron</title>
+    <link>https://kieron.blog/about/</link>
+    <pubDate>Tue, 03 Aug 2021 14:17:12 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://kieron.blog/about/</guid>
+    <description><![CDATA[Hi, thanks for paying some attention to my corner of the internet.
+So I&rsquo;m Kieron, a Scotsman based near Minneapolis Minnesota since 2005. I&rsquo;m a digital marketer by trade with a wide range of experience in the past two decades.   Kieron Brewer   Particular areas of focus have been: paid search, digital analytics, tag management, marketing automation, email campaigns, digital body language, and site building.
+In my spare time I spend way too much time online, usually learning and practicing with new technology tools.]]></description>
+</item></channel>
+>>>>>>> a6e894cb813479ed6fa67a84c60f8a7577deeddb
 </rss>
